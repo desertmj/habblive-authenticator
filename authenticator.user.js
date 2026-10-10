@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Habblive Authenticator
+// @name         Interface de Scripts
 // @namespace    habblive
 // @version      2.0.0
 // @description  Carrega scripts via worker com autenticação por token
