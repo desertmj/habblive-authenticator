@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Interface de Scripts
 // @namespace    habblive
-// @version      2.3.0
+// @version      2.3.1
 // @description  Carrega scripts via worker com autenticação por token
 // @match        https://habblive.in/livevip
 // @match        https://habblive.in/bigclient
